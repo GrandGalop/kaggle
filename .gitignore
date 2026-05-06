@@ -201,6 +201,10 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 data/
+models/
+submission*.csv
+nlp-getting-started/models/
+nlp-getting-started/submission*.csv
 # Marimo
 marimo/_static/
 marimo/_lsp/
